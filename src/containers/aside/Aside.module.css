@@ -1,0 +1,9 @@
+.aside {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: lightgrey;
+  color: black;
+  grid-row: span 3;
+  grid-column-start: 6;
+}
